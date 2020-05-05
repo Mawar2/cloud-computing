@@ -53,6 +53,7 @@ aws dynamodb put-item --table-name <“table name”> --item '{ "FaceId": {"S": 
 
 
 Please Open PDF file to view screenshots
+https://github.com/Mawar2/cloud-computing/blob/master/greengrass-deeplens/AWS%20-%20Project.pdf
 
 Documentation:
 https://www.aws.training/Details/Video?id=27179
